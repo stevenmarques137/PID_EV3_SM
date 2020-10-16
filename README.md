@@ -15,5 +15,5 @@ Hitechnic color sensor (Luz e Cor).
 O Bloco SM_PID_Controll possui paramentros de configuração para o seu funcionamento:
 
 Blocos Vermelhos: Sensores de linhas (NXT, EV3 ou Hitechnic);-----------------------------------------------------------------------------------------
-Letras A, B e C: São as constantes de ajustes (A = Kp), (B = Ki) e (C = Kd), nelas irão os valores no qual o seu robô responde corretamente; ---------
-Bloco final: O bloco final é a saída do PID onde será conectada ao motor de direção ou de sua preferência; 
+Letras A, B e C: São as constantes de ajustes (A = Kp), (B = Ki) e (C = Kd), nelas irão os valores no qual o seu robô responde corretamente; ------
+Bloco final: O bloco final é a saída do PID onde será conectada ao motor de direção ou de sua preferência; -----------------------------------
