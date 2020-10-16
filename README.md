@@ -16,4 +16,4 @@ O Bloco SM_PID_Controll possui paramentros de configuração para o seu funciona
 
 Blocos Vermelhos: Sensores de linhas (NXT, EV3 ou Hitechnic);-----------------------------------------------------------------------------------------
 Letras A, B e C: São as constantes de ajustes (A = Kp), (B = Ki) e (C = Kd), nelas irão os valores no qual o seu robô responde corretamente; ------
-Bloco final: O bloco final é a saída do PID onde será conectada ao motor de direção ou de sua preferência; -----------------------------------
+Bloco final: O bloco final é a saída do PID onde será conectada ao motor de direção ou de sua preferência; ----------------------------------------
