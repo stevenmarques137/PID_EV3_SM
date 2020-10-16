@@ -1,6 +1,7 @@
  PID_EV3_SM
  
  SM_PID_Controll.ev3s = Bloco
+ PID_controleSM.ev3   = Programações
  
  
 Desenvolvedor: Tec.Eletrônica - Steven Marques. -------------------------------------------------------------------------------------------------------
